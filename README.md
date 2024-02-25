@@ -5,6 +5,6 @@
 
 # Windows
 
-### `python -m virtualenv venv`
+### `python -m virtualenv env`
 ### `source env/Scripts/activate`
 ### `pip install -r requirements.txt`
