@@ -1,6 +1,6 @@
 # .env
-**API_KEY** = <> \
-**ADMIN_ID** = <>
+**API_KEY** = <Токен> \
+**ADMIN_ID** = <Ид админа>
 
 # Template bot 
 ```bash
