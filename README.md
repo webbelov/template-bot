@@ -10,7 +10,17 @@ pip install -r requirements.txt
 ```
 
 # Windows
+```bash
+python -m virtualenv env
+```
+```bash
+source env/Scripts/activate
+```
+```bash
+pip install -r requirements.txt
+```
 
-### `python -m virtualenv env`
-### `source env/Scripts/activate`
-### `pip install -r requirements.txt`
+
+
+API_KEY = ''
+ADMIN_ID = ''
