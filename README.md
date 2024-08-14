@@ -1,5 +1,5 @@
-### .env
-API_KEY = ''
+# .env
+**API_KEY** = <>
 ADMIN_ID = ''
 
 # Template bot 
