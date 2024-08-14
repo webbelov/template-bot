@@ -2,7 +2,7 @@
 **API_KEY** = <Токен> \
 **ADMIN_ID** = <Ид админа>
 
-# Template bot 
+## Linux 
 ```bash
 virtualenv env
 ```
@@ -13,7 +13,7 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-# Windows
+## Windows
 ```bash
 python -m virtualenv env
 ```
