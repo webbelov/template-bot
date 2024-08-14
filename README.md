@@ -1,10 +1,13 @@
 # Template bot 
 ```bash
-wegfw
+virtualenv env
 ```
-### `virtualenv env`
-### `source env/bin/activate` 
-### `pip install -r requirements.txt`
+```bash
+source env/bin/activate
+```
+```bash
+pip install -r requirements.txt
+```
 
 # Windows
 
